@@ -1,0 +1,8 @@
+*.deb
+*.zip
+*.gz
+*.bz2
+*.vbox-extpack
+scripts/archives/
+.vagrant/
+output.txt

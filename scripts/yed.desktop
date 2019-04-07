@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=yEd
+Type=Application
+Exec=java -jar /opt/yed/yed.jar
+Terminal=false
+Icon=/opt/yed/icons/yicon32.png
+Comment=Open Source Visio
+NoDisplay=false
+Categories=Development;IDE;
+Name[en]=yEd

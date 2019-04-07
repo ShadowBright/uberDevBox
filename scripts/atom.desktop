@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Atom
+Type=Application
+Exec=/usr/bin/atom
+Terminal=false
+Icon=/usr/share/pixmaps/atom.png
+Comment=Integrated Development Environment
+NoDisplay=false
+Categories=Development;IDE;
+Name[en]=atom
+

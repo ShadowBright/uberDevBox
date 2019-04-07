@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Firefox
+Type=Application
+Exec=/usr/lib/firefox/firefox
+Terminal=false
+Icon=/usr/lib/firefox/browser/icons/mozicon128.png
+Comment=Browser
+NoDisplay=false
+Categories=Development;IDE;
+Name[en]=Firefox
