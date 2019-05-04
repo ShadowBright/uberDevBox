@@ -118,7 +118,7 @@ home() {
     install_steam
     install_dropbox
     install_insync
-
+    install_riotim
 
 }
 
